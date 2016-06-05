@@ -10,7 +10,7 @@ class mpgGlobals
         'MONERIS_PROTOCOL' => "https",
         'MONERIS_PORT' =>'443',
         'MONERIS_FILE' => '/gateway2/servlet/MpgRequest',
-        'API_VERSION'  =>'PHP - 2.5.6',
+        'API_VERSION'  =>'PHP - 2.5.6 - vtedesco',
         'CLIENT_TIMEOUT' => '60'
     );
 
